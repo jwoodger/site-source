@@ -1,0 +1,40 @@
+title = "Jack Woodger's Portfolio Site"
+language = "en-US"
+baseURL = "https://jwoodger.github.io"
+
+[params]
+contentTypeName = "posts"
+themeColor = "blue"
+showMenuItems = 99
+centerTheme = true
+showLanguageSelector = false
+fullWidthTheme = false
+autoCover = true
+
+[languages]
+[languages.en]
+languageName = "English"
+title = "Jack Woodger's Homepage"
+owner = "Jack Woodger"
+
+[languages.en.params.logo]
+logoText = "Jack Woodger"
+logoHomeLink = "/"
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+[[languages.en.menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects"
+[[languages.en.menu.main]]
+identifier = "resume"
+name = "Resume"
+url = "/resume"
+
+[module]
+[[module.imports]]
+path = "github.com/panr/hugo-theme-terminal"
