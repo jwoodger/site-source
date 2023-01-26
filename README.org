@@ -1,3 +1,3 @@
 #+TITLE: Portfolio Site Source
 This is the source for my statically-generated portfolio site, powered by [[https://hugo.io/][Hugo]].
-My site can be found at [https://jwoodger.github.io].
+My site can be found at [[https://jwoodger.github.io]].
