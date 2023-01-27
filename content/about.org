@@ -1,0 +1,32 @@
+#+TITLE: About Me
+
+I am a passionate and dedicated software developer from Toronto, Canada. I'm
+constantly seeking out information and news on new technologies and even though
+I'm finished school, I aim to keep learning new things every day.
+
+From 2017 to 2022 I was a student at the University of Toronto where I graduated
+with my B.Sc in computer science. While at the university, I was a part of the
+co-op program and got valuable job experience. Besides my CS major, I also
+minored in statistics and media studies.
+
+With software development, my specific areas of expertise include programming in
+C# and Java, as well as database management and unit testing. I also have
+experience with web frameworks such as Spring (including Spring Boot) and
+ASP.NET.
+
+Furthermore, I can speak French fluently after having taken classes all through
+elementary and high school, and can work well in a bilingual environment.
+
+As someone who minored in the humanities, I understand the importance of
+communicating your ideas to others, especially when you are all part of a team
+working towards a shared goal. That's why I always take care to write code that
+not only works, but is readable and well-documented so that others can
+understand it.
+
+Outside of work I have many interests. I play the piano and the trumpet, and
+love to listen to music in a variety of genres (my current favourite artists are
+Pink Floyd, Talking Heads, and King Crimson). I also enjoy reading, watching
+movies, and taking walks around the city (weather permitting, of course!).
+
+If you would like more information on my skills and achievements, have a look at
+my [[/resume][resume]].
