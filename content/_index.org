@@ -7,6 +7,7 @@ to navigate around.
 + If you want to see details of things I've worked on, look at my [[/projects][Projects]].
 + If you are interested in a more professional summary of my skills and
   achievements, please see my [[/resume][Resume]].
++ If you would like to get in touch, you can check out my [[/contact][Contact]] page.
 
 Please note that the site is still under construction, so not all of these links
 may work right now.
