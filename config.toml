@@ -1,6 +1,7 @@
 title = "Jack Woodger's Portfolio Site"
 language = "en-US"
 baseURL = "https://jwoodger.github.io"
+copyright = "Copyright &#169; 2023 Jack Woodger :: Made with <a href=\"gohugo.io\">Hugo</a>"
 
 [params]
 contentTypeName = "posts"
