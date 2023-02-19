@@ -1,5 +1,5 @@
 #+TITLE: Contact Me
 
 If you want to get in contact with me, you can:
-+ Connect with me on my [[https://www.linkedin.com/in/jack-woodger-8928a5185/][LinkedIn]] account.
++ Connect with me on my [[https://www.linkedin.com/in/jack-woodger/][LinkedIn]] account.
 + Email me at [[mailto:woodger.jack@gmail.com][woodger.jack@gmail.com]].

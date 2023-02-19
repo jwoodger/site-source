@@ -4,7 +4,6 @@ I'm Jack, and you've arrived at my portfolio website. Please use the above links
 to navigate around.
 
 + If you want to learn more about me personally, check out the [[/about][About]] section.
-+ If you want to see details of things I've worked on, look at my [[/projects][Projects]].
 + If you are interested in a more professional summary of my skills and
   achievements, please see my [[/resume][Resume]].
 + If you would like to get in touch, you can check out my [[/contact][Contact]] page.
