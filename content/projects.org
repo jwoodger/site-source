@@ -1,0 +1,8 @@
+#+TITLE: Projects
+
+* YrMix
++ https://github.com/jwoodger/yrmix
+
+YrMix is a fully-featured web application using the MERN stack. It is designed
+to store all of a user's mixtapes and playlists in one place, without being tied
+to any one music store or streaming service.
